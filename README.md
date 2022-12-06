@@ -1,4 +1,14 @@
-# luckly_learn
-此工程主要是存放日常工作，总结学习的各种示例和效果展示
 
-- rn-dynamic: 已有Android项目动态加载RN离线包实现
+- 原生安卓工程 app/android
+- react-native工程1 module_1
+- react-native工程2 module_2
+
+启动mock服务
+
+```bash
+cd packages/mock_server
+npm i
+npm run start
+```
+
+运行安卓原生工程

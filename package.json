@@ -1,7 +1,0 @@
-{
-  "name": "luckly_learn",
-  "private": true,
-  "devDependencies": {
-    "lerna": "^3.16.4"
-  }
-}
